@@ -2,8 +2,8 @@
 const Me = {
   Personal: {
     Learning : ["Network", "Pentesting", "Web", "Sysadmin"],
-    Interest : ["Java", "Go", "Cloud", "Shell", "Forensic"],
-    Project : ["Entropy", "0x307845.me"],
+    Interest : ["Offensive Security", "C++", "Sql", "Shell", "Forensic"],
+    Project : ["RCFD", "KiruaWeb"],
     FavouriteDistro: "Parrot Os",
     VirtualMachine : "VMWARE"
   },
@@ -11,7 +11,7 @@ const Me = {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "and more ..."],
     Programming : ["C", "C++", "C#", "JS", "Perl", "Python", "PHP"],
     Sysadmin : ["pfsense", "iptables", "root", "private keys", "sudo"],
-    Framework : ["Bootstrap", "NodeJS"]
+    Framework : ["Bootstrap", "NodeJS", "Dotnet"]
   }
 };
 ````
