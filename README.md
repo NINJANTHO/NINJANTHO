@@ -83,6 +83,3 @@ const Me = {
 
 <br/>  
 
----
-
-![Banner](https://i.pinimg.com/originals/8a/78/53/8a7853a39f37df16dc5ccff619e6c654.gif)
