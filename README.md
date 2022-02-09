@@ -9,7 +9,7 @@ const Me = {
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "and more ..."],
-    Programming : ["C", "C++", "C#", "JS", "Perl", "Python", "PHP"],
+    Programming : ["C", "C++", "C#", "JS", "Rust", "Python", "Lua"],
     Sysadmin : ["pfsense", "iptables", "root", "private keys", "sudo"],
     Framework : ["Bootstrap", "NodeJS", "Dotnet"]
   }
